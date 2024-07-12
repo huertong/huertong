@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huertong&layout=compact&theme=tokyonight)
+
+![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=huertong&show_icons=true&theme=tokyonight)
+
+![Visitor Count](https://profile-counter.glitch.me/huertong/count.svg)
+
+
+
+
 <!--
 **huertong/huertong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
