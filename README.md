@@ -1,10 +1,6 @@
 ## Hi there 👋
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huertong&layout=compact&theme=tokyonight)
 
-![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=huertong&show_icons=true&theme=tokyonight)
-
-![Visitor Count](https://profile-counter.glitch.me/huertong/count.svg)
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=huertong&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
@@ -25,3 +21,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!--
+常用语言占比统计
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huertong&layout=compact&theme=tokyonight)
+
+仓库状态统计
+![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=huertong&show_icons=true&theme=tokyonight)
+
+主页访问量统计
+![Visitor Count](https://profile-counter.glitch.me/huertong/count.svg)
+>
